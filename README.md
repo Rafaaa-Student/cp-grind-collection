@@ -2,7 +2,7 @@
 
 
 
-> Koleksi 42+ solusi competitive programming dari **Codeforces** & **LeetCode** — dari problem easy yang bikin senyum sampai yang butuh otak-atik sliding window & greedy. Write in Python with love ☕
+> Koleksi 40+ solusi competitive programming dari **Codeforces** & **LeetCode** — dari problem easy yang bikin senyum sampai yang butuh otak-atik sliding window & greedy. Write in Python with love ☕
 > 
 
 
@@ -18,7 +18,7 @@
 
 |:-------------:|:----------------:|:---------:|
 
-| 42+ | 800 - 1600 Rating | Python 3 |
+| 40+ | 800 - 1600 Rating | Python 3 / PyPy 3 |
 
 
 
